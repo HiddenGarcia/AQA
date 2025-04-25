@@ -1,2 +1,2 @@
 # AQA
-Algoritmos
+Image Processing and Quantum Edge Detetion
