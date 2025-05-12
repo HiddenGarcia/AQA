@@ -2,3 +2,4 @@ qiskit
 pylatexenc
 qiskit-ibm-runtime
 Numpy
+qiskit-aer
